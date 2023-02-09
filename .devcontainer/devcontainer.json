@@ -1,0 +1,11 @@
+{
+    "name": "PlatformIO DevContainer",
+    "dockerFile": "Dockerfile",
+    "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+    },
+    "extensions": [
+        "ms-vscode.cpptools",
+        "platformio.platformio-ide"
+    ]
+}
